@@ -25,7 +25,7 @@ public class ConjuntoComportado {
 
 		Set<Integer> nums = new HashSet<>(); //pode ser vazio o parâmetro da Generics do lado direito,
 												   //como: Set<String> lista = new HashSet<>();
-		//teste
+		//teste123
 		nums.add(1);
 		nums.add(2);
 		nums.add(3);
