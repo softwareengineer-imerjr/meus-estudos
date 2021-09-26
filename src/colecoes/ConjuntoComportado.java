@@ -30,6 +30,7 @@ public class ConjuntoComportado {
 		nums.add(2);
 		nums.add(3);
 		nums.add(5);
+		nums.add(6);
 		
 		for(int num: nums) {
 			System.out.println(num);
